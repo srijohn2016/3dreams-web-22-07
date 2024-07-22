@@ -33,10 +33,9 @@ header{
      color:orange;
   } */
 
-
 .navbar-light .navbar-nav a{
   
-     color:black;
+     color:white;
     font-size: 20px;
     justify-content: space-between;
 }
@@ -84,16 +83,19 @@ header{
 } */
 
 .bg-dark{
-    background-color: white !important;
+    background-color: whitesmoke !important;
 }
 a,i{
-  padding-inline-start: 25px;
+  padding-inline-start:6px;
   margin:6px;
 }
 
-a .active{
-  background: whitesmoke;
+a.active{
+  /* background:orange; */
+  border-radius:10px;
+  background-color: orange;
   display: inline-block;
+  text-align: center;
 }
 
 #contact-details{
@@ -198,7 +200,7 @@ a .active{
 
 .about-bg{
   background-image: url('img/bg\ img/bg img1.jpg');
-  height:70vh;  
+  height:60vh;  
   min-height: 400px;
   background-size: cover;
   /* object-fit: cover; */
@@ -222,7 +224,7 @@ a .active{
 
 .services-bg{
   background-image: url('img/bg\ img/bg img1.jpg');
-  height:70vh;  
+  height:60vh;  
   min-height: 400px;
   background-size: cover;
   /* object-fit: cover; */
@@ -231,7 +233,7 @@ a .active{
 /* Contact Page */
 .contact-bg{
   background-image: url('img/bg\ img/bg img1.jpg');
-  height:70vh;  
+  height:60vh;  
   min-height: 400px;
   background-size: cover;
   /* object-fit: cover; */
