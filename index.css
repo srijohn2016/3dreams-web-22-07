@@ -200,7 +200,7 @@ a.active{
 
 .about-bg{
   background-image: url('img/bg\ img/bg img1.jpg');
-  height:60vh;  
+  height:40vh;  
   min-height: 400px;
   background-size: cover;
   /* object-fit: cover; */
@@ -224,7 +224,7 @@ a.active{
 
 .services-bg{
   background-image: url('img/bg\ img/bg img1.jpg');
-  height:60vh;  
+  height:40vh;  
   min-height: 400px;
   background-size: cover;
   /* object-fit: cover; */
@@ -233,7 +233,7 @@ a.active{
 /* Contact Page */
 .contact-bg{
   background-image: url('img/bg\ img/bg img1.jpg');
-  height:60vh;  
+  height:40vh;  
   min-height: 400px;
   background-size: cover;
   /* object-fit: cover; */
